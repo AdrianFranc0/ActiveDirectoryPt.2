@@ -27,6 +27,7 @@ In this home lab with Active directory which the majority of organizations use t
 - Active Directory
 - crowbar
 - Sysmon
+- Oracle VM
 
 ## Steps
 
