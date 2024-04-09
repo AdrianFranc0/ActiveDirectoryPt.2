@@ -3,19 +3,21 @@
 ## Objective
 
 
-This Network Analysis Lab was aimed to impliment my Wireshark PCAP analysis skills and add onto my Cybersecurity job simulation that I completed on Forage for the company AIG. The Job simulation had to do with Apache Log4j Vulnerability within the company and I had to do tasks to Identify and look into the Vulnerability and using Python to bruteforce an encrypted password. With this hands-on Lab I can deepen my understanding on Apache Log4j and how it would look like in a PCAP/scenario, improve my network security, familiarize with attack patterns, and defensive strategies.
+In this home lab with Active directory which the majority of organizations use to manage resources such as users,computers, and groups. In this Project we will create an Active Directory domain/machine and also have a splunk/target machine to monitor the brute force attack/activity on the user from the AD domain, which I will be producing from Kali Linux. Along with the help of Atomic Red Team to utilize the MITRE ATT&CK framework to investigate/validate the malicious activity. 
+
 
 ### Skills Learned
 
 
-- Advanced understanding of Apache Log4j Vulnerbility.
-- Proficiency in analyzing and interpreting a PCAP.
+- Using Atomic Red Team
+- Performing brute force attack on Kali Linux using crowbar tool
 - Development of recognizing attack patterns and critical thinking/problem-solving skills in cybersecurity. 
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- More expirence with malware analysis, (C2) and data exfiltration tecniques
+- MITRE ATT&CK framework
+- More expirence with Splunk
+- Getting more familiar with Active Directory
 
 
-### Tools Used
+### Tools/Assets Used
 
 
 - Splunk
@@ -23,6 +25,8 @@ This Network Analysis Lab was aimed to impliment my Wireshark PCAP analysis skil
 - Powershell
 - Kali Linux
 - Active Directory
+- crowbar
+- Sysmon
 
 ## Steps
 
