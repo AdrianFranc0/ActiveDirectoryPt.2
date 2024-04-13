@@ -3,7 +3,7 @@
 ## Objective
 
 
-In this home lab with Active directory which the majority of organizations use to manage resources such as users,computers, and groups. In this Project we will create an Active Directory domain/machine and also have a splunk/target machine to monitor the brute force attack/activity on the user from the AD domain, which I will be producing from Kali Linux. Along with the help of Atomic Red Team to utilize the MITRE ATT&CK framework to investigate/validate the malicious activity. 
+In this home lab with Active directory which the majority of organizations use to manage resources such as users,computers, and groups. In this Project we will create an Active Directory domain/machine and also have a splunk/target machine to monitor the brute force attack/activity on the user from the AD domain, which I will be producing from Kali Linux to be attacking one of the Target machine's users and monitoring that activity. Along with the help of Atomic Red Team to utilize the MITRE ATT&CK framework to investigate/validate the malicious activity. 
 
 
 ### Skills Learned
