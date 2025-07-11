@@ -1,4 +1,4 @@
-# ActiveDirectoryPt.2
+# ActiveDirectory SIEM Monitoring Lab
 
 ## Objective
 
